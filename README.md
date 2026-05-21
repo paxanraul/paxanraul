@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Рауль 👋</h1>
 
 <p align="center">
-  <b>Backend Python Developer</b> · self-taught · 🇳🇱 Нидерланды
+  <b>Backend Python Developer</b> · self-taught · 🇷🇺 Москва
 </p>
 
 <p align="center">
