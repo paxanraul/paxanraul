@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Пишу бэкенды на Python и FastAPI. Учусь сам, в 11 классе.<br/>
+  Пишу Backend на Python и FastAPI. Учусь сам, в 11 классе.<br/>
   Открыт к <b>стажировке</b> или <b>junior</b>-позиции.
 </p>
 
@@ -26,18 +26,22 @@
 ![VPS](https://img.shields.io/badge/VPS-44CC11?style=flat&logo=linux&logoColor=white)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=flat&logo=telegram&logoColor=white)
 
-**В процессе изучения:** 🐳 Docker · 🔐 JWT
-
 ---
 
 ### 📦 Проекты
 
-**🎬 [Movie Tracker](https://github.com/paxanraul)** — REST API для трекинга фильмов
+**🎬 [Movie Tracker](https://github.com/paxanraul/movie-tracker-fastapi)** — REST API для трекинга фильмов
 `FastAPI` · `PostgreSQL` · `SQLAlchemy`
 Задеплоен на VPS под nginx, CI/CD через GitHub Actions.
 
-**🏋️ [Workout Logger](https://github.com/paxanraul)** — Telegram Mini App для логирования тренировок
+**🏋️ [Progress Check](https://github.com/paxanraul/Progress-Check-mini-app-Telegram)** — Telegram Mini App для логирования тренировок
 `Telegram Bot API` · `Python` · командная разработка
+
+**📥 [Telegram Bot: Reels & TikTok Downloader](https://github.com/paxanraul/Telegram-Bot-Reels-and-TikTok-download)** — бот для скачивания видео из Reels и TikTok
+`Telegram Bot API` · `Python` · `async/await`
+
+**⚙️ [Backend Task](https://github.com/paxanraul/backendtask)** — пет-проект на бэкенде
+`Python` · `FastAPI`
 
 ---
 
@@ -55,8 +59,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/paxanraul"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://t.me/paxanraul"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/Raul_Mamedoff"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
-<p align="center"><i>Строю бэкенды, которые не падают в проде. Открыт к офферам.</i></p>
+<p align="center"><i>Строю backend, который не падает в проде. Открыт к офферам.</i></p>
