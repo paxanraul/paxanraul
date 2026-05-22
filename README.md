@@ -19,7 +19,10 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
 ![async/await](https://img.shields.io/badge/async%2Fawait-3776AB?style=flat&logo=python&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
