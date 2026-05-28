@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Пишу Backend на Python и FastAPI. Учусь сам, в 11 классе.<br/>
+  Пишу Backend на Python и FastAPI. Учусь сам.<br/>
   Открыт к <b>стажировке</b> или <b>junior</b>-позиции.
 </p>
 
