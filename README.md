@@ -37,10 +37,10 @@
 `FastAPI` · `PostgreSQL` · `SQLAlchemy`
 Задеплоен на VPS под nginx, CI/CD через GitHub Actions.
 
-**🏋️ [Progress Check](https://github.com/paxanraul/Progress-Check-mini-app-Telegram)** — Telegram Mini App для логирования тренировок
+**🏋️ [Progress Check](https://github.com/paxanraul/Progress-Check-mini-app-Telegram-)** — Telegram Mini App для логирования тренировок
 `Telegram Bot API` · `Python` · командная разработка
 
-**📥 [Telegram Bot: Reels & TikTok Downloader](https://github.com/paxanraul/Telegram-Bot-Reels-and-TikTok-download)** — бот для скачивания видео из Reels и TikTok
+**📥 [Telegram Bot: Reels & TikTok Downloader](https://github.com/paxanraul/Telegram-Bot-Reels-and-TikTok-download-)** — бот для скачивания видео из Reels и TikTok
 `Telegram Bot API` · `Python` · `async/await`
 
 **⚙️ [Backend Task](https://github.com/paxanraul/backendtask)** — пет-проект на бэкенде
