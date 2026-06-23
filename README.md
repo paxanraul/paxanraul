@@ -17,6 +17,10 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=flat&logo=alembic&logoColor=white)
+![Pydantic v2](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat&logo=pydantic&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)
 ![async/await](https://img.shields.io/badge/async%2Fawait-3776AB?style=flat&logo=python&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)
@@ -35,7 +39,7 @@
 
 **🍿 [Cinema API](https://github.com/paxanraul/Cinema-API)** — REST API для онлайн-кинотеатра: фильмы, залы, сеансы, бронирование
 `FastAPI` · `PostgreSQL` · `SQLAlchemy 2.0` · `Alembic` · `JWT` · `Docker Compose` · `pytest`
-JWT-аутентификация с token blacklist, soft delete аккаунтов, rate limiting на авторизации, слоистая архитектура (routers / services / models / schemas), CI через GitHub Actions.
+JWT с token blacklist, rate limiting, слоистая архитектура, CI на GitHub Actions.
 
 **🎬 [Movie Tracker](https://github.com/paxanraul/movie-tracker-fastapi)** — REST API для трекинга фильмов
 `FastAPI` · `PostgreSQL` · `SQLAlchemy`
