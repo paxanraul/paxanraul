@@ -33,6 +33,10 @@
 
 ### 📦 Проекты
 
+**🍿 [Cinema API](https://github.com/paxanraul/Cinema-API)** — REST API для онлайн-кинотеатра: фильмы, залы, сеансы, бронирование
+`FastAPI` · `PostgreSQL` · `SQLAlchemy 2.0` · `Alembic` · `JWT` · `Docker Compose` · `pytest`
+JWT-аутентификация с token blacklist, soft delete аккаунтов, rate limiting на авторизации, слоистая архитектура (routers / services / models / schemas), CI через GitHub Actions.
+
 **🎬 [Movie Tracker](https://github.com/paxanraul/movie-tracker-fastapi)** — REST API для трекинга фильмов
 `FastAPI` · `PostgreSQL` · `SQLAlchemy`
 Задеплоен на VPS под nginx, CI/CD через GitHub Actions.
