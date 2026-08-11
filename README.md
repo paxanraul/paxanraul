@@ -1,11 +1,11 @@
 <h1 align="center">Привет, я Рауль 👋</h1>
 
 <p align="center">
-  <b>Backend Python Developer</b> · self-taught · 🇷🇺 Москва
+  <b>Backend Python Developer</b> · 🇷🇺 Москва
 </p>
 
 <p align="center">
-  Пишу Backend на Python и FastAPI. Учусь сам.
+  Пишу Backend на Python и FastAPI.
 </p>
 
 ---
