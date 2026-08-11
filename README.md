@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  Пишу Backend на Python и FastAPI. Учусь сам.<br/>
-  Открыт к <b>стажировке</b> или <b>junior</b>-позиции.
+  Пишу Backend на Python и FastAPI. Учусь сам.
 </p>
 
 ---
@@ -36,6 +35,10 @@
 ---
 
 ### 📦 Проекты
+
+**📈 [Price Alerts API](https://github.com/paxanraul/Price-Alerts-API)** — сервис отслеживания цен BTC и ETH с уведомлениями при срабатывании алертов
+`FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Alembic` · `Redis` · `ARQ` · `Docker Compose` · `pytest`
+Фоновый worker получает цены с биржи, проверяет условия алертов и отправляет уведомления в Telegram или webhook; есть WebSocket-поток цен, Prometheus-метрики, rate limiting и CI.
 
 **🍿 [Cinema API](https://github.com/paxanraul/Cinema-API)** — REST API для онлайн-кинотеатра: фильмы, залы, сеансы, бронирование
 `FastAPI` · `PostgreSQL` · `SQLAlchemy 2.0` · `Alembic` · `JWT` · `Docker Compose` · `pytest`
