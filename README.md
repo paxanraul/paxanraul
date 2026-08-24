@@ -66,19 +66,6 @@ JWT с token blacklist, rate limiting, слоистая архитектура, 
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=paxanraul&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxanraul&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paxanraul&hide_border=true&theme=transparent" alt="Streak" />
-</p>
-
----
-
 <p align="center">
   <a href="https://t.me/Raul_Mamedoff"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
